@@ -129,3 +129,4 @@ E:\asp.net\Assignments\Entity_FrameWork\Entity_FrameWork_Session_01\Entity_Frame
 E:\asp.net\Assignments\Entity_FrameWork\Entity_FrameWork_Session_01\Entity_FrameWork_Session_01_demo\obj\Debug\net8.0\Entity_FrameWork_Session_01_demo.pdb
 E:\asp.net\Assignments\Entity_FrameWork\Entity_FrameWork_Session_01\Entity_FrameWork_Session_01_demo\obj\Debug\net8.0\Entity_FrameWork_Session_01_demo.genruntimeconfig.cache
 E:\asp.net\Assignments\Entity_FrameWork\Entity_FrameWork_Session_01\Entity_FrameWork_Session_01_demo\obj\Debug\net8.0\ref\Entity_FrameWork_Session_01_demo.dll
+E:\asp.net\Assignments\Entity_FrameWork\Entity_FrameWork_Session_01\Entity_FrameWork_Session_01_demo\obj\Debug\net8.0\Entity_FrameWork_Session_01_demo.sourcelink.json

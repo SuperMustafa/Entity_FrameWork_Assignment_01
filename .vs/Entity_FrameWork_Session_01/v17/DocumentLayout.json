@@ -7,20 +7,48 @@
       "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250217115237_lastUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity_FrameWork_Session_01_demo\\Migrations\\20250217115237_lastUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|e:\\asp.net\\assignments\\entity_framework\\entity_framework_session_01\\entity_framework_session_01_demo\\data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\data\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|e:\\asp.net\\assignments\\entity_framework\\entity_framework_session_01\\entity_framework_session_01_demo\\migrations\\20250204155822_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\migrations\\20250204155822_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|e:\\asp.net\\assignments\\entity_framework\\entity_framework_session_01\\entity_framework_session_01_demo\\data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\data\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250217110117_newUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity_FrameWork_Session_01_demo\\Migrations\\20250217110117_newUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250217110838_newUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity_FrameWork_Session_01_demo\\Migrations\\20250217110838_newUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250215164141_ForthUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity_FrameWork_Session_01_demo\\Migrations\\20250215164141_ForthUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|e:\\asp.net\\assignments\\entity_framework\\entity_framework_session_01\\entity_framework_session_01_demo\\data\\context\\mycompanydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\data\\context\\mycompanydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|e:\\asp.net\\assignments\\entity_framework\\entity_framework_session_01\\entity_framework_session_01_demo\\entity_framework_session_01_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\entity_framework_session_01_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|e:\\asp.net\\assignments\\entity_framework\\entity_framework_session_01\\entity_framework_session_01_demo\\data\\mycompanycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\data\\mycompanycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|e:\\asp.net\\assignments\\entity_framework\\entity_framework_session_01\\entity_framework_session_01_demo\\migrations\\20250215110414_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\migrations\\20250215110414_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|e:\\asp.net\\assignments\\entity_framework\\entity_framework_session_01\\entity_framework_session_01_demo\\migrations\\20250215124627_second-update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\migrations\\20250215124627_second-update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|e:\\asp.net\\assignments\\entity_framework\\entity_framework_session_01\\entity_framework_session_01_demo\\data\\configrations\\employeeconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C916BD4-4219-4952-92FD-9AE7D7230716}|Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj|solutionrelative:entity_framework_session_01_demo\\data\\configrations\\employeeconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,60 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250204155822_Initial Create.cs",
-              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250204155822_Initial Create.cs",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Migrations\\20250204155822_Initial Create.cs",
-              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250204155822_Initial Create.cs",
-              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Migrations\\20250204155822_Initial Create.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T15:58:23.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyCompanyDbContext.cs",
-              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Context\\MyCompanyDbContext.cs",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Data\\Context\\MyCompanyDbContext.cs",
-              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Context\\MyCompanyDbContext.cs",
-              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Data\\Context\\MyCompanyDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T13:05:39.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Data\\Entities\\Employee.cs",
-              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Entities\\Employee.cs",
-              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Data\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T12:54:54.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Entity_FrameWork_Session_01_demo",
-              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj",
-              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj",
-              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Entity_FrameWork_Session_01_demo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T12:53:57.807Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -92,10 +68,148 @@
               "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Program.cs",
               "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Program.cs",
               "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAQwKEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T20:51:26.6Z",
+              "WhenOpened": "2025-02-15T09:59:50.907Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250217115237_lastUpdate.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250217115237_lastUpdate.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Migrations\\20250217115237_lastUpdate.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250217115237_lastUpdate.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Migrations\\20250217115237_lastUpdate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:52:37.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Data\\Entities\\Employee.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Data\\Entities\\Employee.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:00:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250217110838_newUpdate.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250217110838_newUpdate.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Migrations\\20250217110838_newUpdate.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250217110838_newUpdate.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Migrations\\20250217110838_newUpdate.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:08:38.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250217110117_newUpdate.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250217110117_newUpdate.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Migrations\\20250217110117_newUpdate.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250217110117_newUpdate.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Migrations\\20250217110117_newUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:01:17.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Data\\Entities\\Department.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Entities\\Department.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Data\\Entities\\Department.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:45:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250215164141_ForthUpdate.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250215164141_ForthUpdate.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Migrations\\20250215164141_ForthUpdate.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250215164141_ForthUpdate.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Migrations\\20250215164141_ForthUpdate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:41:42.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyCompanyDbContext.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Context\\MyCompanyDbContext.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Data\\Context\\MyCompanyDbContext.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Context\\MyCompanyDbContext.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Data\\Context\\MyCompanyDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:02:11.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyCompanyContextSeed.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\MyCompanyContextSeed.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Data\\MyCompanyContextSeed.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\MyCompanyContextSeed.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Data\\MyCompanyContextSeed.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:47:24.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250215124627_Second-update.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250215124627_Second-update.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Migrations\\20250215124627_Second-update.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250215124627_Second-update.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Migrations\\20250215124627_Second-update.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:46:27.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250215110414_Initial-Create.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250215110414_Initial-Create.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Migrations\\20250215110414_Initial-Create.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Migrations\\20250215110414_Initial-Create.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Migrations\\20250215110414_Initial-Create.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:04:14.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeConfigrations.cs",
+              "DocumentMoniker": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Configrations\\EmployeeConfigrations.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Session_01_demo\\Data\\Configrations\\EmployeeConfigrations.cs",
+              "ToolTip": "E:\\asp.net\\Assignments\\Entity_FrameWork\\Entity_FrameWork_Session_01\\Entity_FrameWork_Session_01_demo\\Data\\Configrations\\EmployeeConfigrations.cs",
+              "RelativeToolTip": "Entity_FrameWork_Session_01_demo\\Data\\Configrations\\EmployeeConfigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:05:17.501Z"
             }
           ]
         }
